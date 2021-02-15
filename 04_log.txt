@@ -1,0 +1,3 @@
+ERROR [2021-02-14 17:14:36] UID or PASSWORD env vars not found
+ERROR [2021-02-14 17:14:54] No results from sales_table
+INFO [2021-02-14 17:16:19] Retrieved 10 rows from sales_table
