@@ -14,7 +14,7 @@ Life as member of a data team is awesome but as a lone data scientist in a small
 ### Script progression of exploratory to production ready
 In the talk I explain about how you get your exploratory script to a more production
 ready script. 
-In [from exploration to script (another markdown document in this repo)](from_exploration_to_script.md) you can see a progression where I add logging, informative logging and error quickly. 
+In [from exploration to script (another markdown document in this repo)](from_exploration_to_script.md) you can see a progression where I add  informative logging and error quickly. 
 
 
 

@@ -7,6 +7,8 @@
 * [03_error_quickly.R](03_error_quickly.R) Fail when the program cannot work, fail clearly
 * [04_log_useful_things.R](04_log_useful_things.R) don't log everything, log pieces that can change and that would help you debug (on level DEBUG). 
 * 05 use renv to lock down R packages. simply run `renv::snapshot()` to write a logfile.
+* [06_other_improvements](06_other_improvements.R) making more things configurable such as days we look back, writing dplyr in stead of SQL. 
+* Other options are: turning loose parts into functions, save the functions in another file and make this script only the high level functions - connect, - retrieve, - forecast, - write back to database.
 
 
 
